@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Pinksoft</string>
+    <string name="name">Name :</string>
+    <string name="user_name">User name :</string>
+    <string name="email">Email :</string>
+    <string name="address">Address</string>
+    <string name="city">City :</string>
+    <string name="phone">Phone :</string>
+    <string name="body">Body :</string>
+    <string name="comments">Comments</string>
+</resources>
